@@ -3,15 +3,15 @@ This project analyzes the sales performance of a fictional chocolate company usi
 
 Key Insights ive extracted:
 
-# Top-selling Products: Identified which chocolate variants drive the highest shipments.
+Top-selling Products: Identified which chocolate variants drive the highest shipments.
 
-# Revenue Trends: Month-by-month and quarter-based sales patterns with spikes & dips.
+Revenue Trends: Month-by-month and quarter-based sales patterns with spikes & dips.
 
-# Country Performance: Compared shipments across markets (India 🇮🇳, USA 🇺🇸, Australia, UK, etc.).
+Country Performance: Compared shipments across markets (India 🇮🇳, USA 🇺🇸, Australia, UK, etc.).
 
-# Growth vs Decline: Used waterfall charts to analyze products contributing to revenue growth or decline.
+Growth vs Decline: Used waterfall charts to analyze products contributing to revenue growth or decline.
 
-# Salespeople & Teams: (optional if you add that view) Breakdown of contributions at the salesperson/team level.
+Salespeople & Teams: (optional if you add that view) Breakdown of contributions at the salesperson/team level.
 
 
 Skills ive Practiced:
@@ -29,8 +29,8 @@ Skills ive Practiced:
 
 The Future Enhancements I can do:
 
-# Adding forecasting for sales trends
+Adding forecasting for sales trends
 
-# More drill-down reports (by salesperson/team)
+More drill-down reports (by salesperson/team)
 
-# Integration with real datasets
+Integration with real datasets
